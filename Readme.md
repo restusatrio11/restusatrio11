@@ -1,66 +1,60 @@
 <div align="center">
+  <img src="https://i.imgur.com/39wF4yP.gif" width="100%" alt="Vibrant background animation" />
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=restusatrio11&style=flat-square&color=blueviolet" alt="Profile views">
 </div>
 
 <h1 align="center">Halo! 👋 Saya Restu Satrio Pinanggih</h1>
 
 <p align="center">
-  Seorang Web Developer yang bersemangat untuk belajar dan berkontribusi.
+  Seorang <span style="font-weight: bold; color: #4B0082;">Web Developer</span> yang bersemangat untuk belajar dan berkontribusi.
 </p>
 
 ---
 
-### 🚀 Tentang Saya
-- 🎓 Saya lulusan dari **Politeknik Statistika STIS**.
-- 💻 Saya saat ini fokus mengembangkan **PHP, Flutter, dan ReactJS**.
-- 💡 Saya suka mengerjakan proyek yang menantang dan menciptakan sesuatu yang bermanfaat.
-- 🌱 Saya selalu tertarik untuk mempelajari teknologi dan konsep baru.
-- 🔗 Kamu bisa terhubung dengan saya di **Instagram**.
-
----
-
-### 🏆 Pencapaian
+### 🎮 Status & Level Saya
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=restusatrio11&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=restusatrio11&theme=github_dark" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=restusatrio11&theme=github_dark" alt="Most Committed Language" />
 </div>
 <br>
 <p align="center">
-  (Trophy ini akan otomatis menampilkan pencapaian Anda berdasarkan aktivitas GitHub, seperti jumlah commit, stars, dan pull request. Ini adalah elemen gamifikasi yang paling populer!)
+  <i><span style="color: #6A5ACD;">"Setiap baris kode adalah EXP baru untuk naik level."</span></i>
 </p>
 
 ---
 
-### 🛠️ Keterampilan & Teknologi
+### 🛠️ Senjata & Skill
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=7B68EE&center=true&vCenter=true&width=500&lines=PHP+Ninja;ReactJS+Strategist;Flutter+Hero;Loves+Coding+Challenges+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=7B68EE&center=true&vCenter=true&width=500&lines=PHP+Developer+Knight;ReactJS+Mage;Flutter+Warrior;Coding+Challenges+Master!+%F0%9F%A4%96" alt="Typing SVG" />
   <br><br>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,flutter,python,git,github,vscode&perline=6&theme=dark&animate=true" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,flutter,python,git,github,vscode&perline=6&theme=dark&animate=true&animated-icons=true" alt="Skills" />
   <br>
 
   <p>
-    <i>Ikon di atas akan terlihat bergerak dan lebih dinamis.</i>
+    <i><span style="color: #7B68EE;">"Membekali diri dengan senjata terbaik di setiap pertarungan!"</span></i>
   </p>
 </div>
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 Riwayat Misi & Statistik
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=restusatrio11&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=restusatrio11&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=restusatrio11&theme=dark&hide_border=true&count_private=true" alt="GitHub Streak" />
 </div>
 <br>
 <p align="center">
-  <i>Statistik ini adalah bukti dari petualangan coding saya. Semakin banyak kontribusi, semakin tinggi level yang dicapai!</i>
+  <i><span style="color: #6A5ACD;">"Mengumpulkan XP dari setiap misi yang diselesaikan."</span></i>
 </p>
 
 ---
 
-### ✨ Proyek Pilihan
+### ✨ Proyek Berharga
 <div align="center">
   🌟 Berikut adalah proyek-proyek yang paling berkesan bagi saya 🌟
 </div>
@@ -88,7 +82,7 @@
 
 ---
 
-### 📫 Kontak Saya
+### 📫 Hubungi Saya
 Jangan ragu untuk mengirimkan saya pesan!
 - **Email:** restuilham212@gmail.com
 - **Instagram:** Restusatrio11
