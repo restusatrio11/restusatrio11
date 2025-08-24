@@ -1,5 +1,5 @@
 <div align="center">
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/d1TgfeM"  ><a href="//imgur.com/a/d1TgfeM">What people think I do when I tell them I&#39;m a programmer vs What I actually do</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/d1TgfeM"  ><a href="//imgur.com/a/d1TgfeM">What people think I do when I tell them I&#39;m a programmer vs What I actually do</a></blockquote>
 </div>
 
 <div align="center">
@@ -93,3 +93,5 @@ Jangan ragu untuk mengirimkan saya pesan!
   <a href="https://github.com/restusatrio11?tab=repositories"><img alt="GitHub Repositories" src="https://img.shields.io/badge/-My%20Projects-blue?style=flat-square&logo=github"></a>
   <a href="https://github.com/restusatrio11?tab=stars"><img alt="GitHub Stars" src="https://img.shields.io/badge/-My%20Stars-yellow?style=flat-square&logo=github"></a>
 </p>
+
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
