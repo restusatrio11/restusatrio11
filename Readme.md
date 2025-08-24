@@ -49,14 +49,16 @@
 </div>
 
 #### 🚀 <a href="#">PARHATA</a>
+
 > **Website Portofolio Pegawai**
-> 
+>
 > Sebuah platform portofolio pegawai yang menampilkan informasi menyeluruh, mulai dari **skor pendidikan**, **pelatihan**, hingga **kinerja pegawai**.
 > ✨ Mengusung tema **Gamifikasi** untuk mendorong transparansi dan akuntabilitas.
 
 #### 📊 <a href="#">SIMANJA</a>
+
 > **Sistem Manajemen Kinerja**
-> 
+>
 > Aplikasi untuk mempermudah **distribusi beban kerja** agar lebih **merata dan adil**.
 > ⚡ Membantu organisasi memastikan setiap pegawai bekerja dengan bobot yang proporsional.
 
@@ -79,3 +81,9 @@
   <a href="https://github.com/restusatrio11?tab=repositories"><img alt="GitHub Repositories" src="https://img.shields.io/badge/My%20Projects-blue?style=for-the-badge&logo=github"></a>
   <a href="https://github.com/restusatrio11?tab=stars"><img alt="GitHub Stars" src="https://img.shields.io/badge/My%20Stars-yellow?style=for-the-badge&logo=github"></a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
