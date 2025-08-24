@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/39wF4yP.gif" width="100%" alt="Vibrant background animation" />
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/d1TgfeM"  ><a href="//imgur.com/a/d1TgfeM">What people think I do when I tell them I&#39;m a programmer vs What I actually do</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
 <div align="center">
