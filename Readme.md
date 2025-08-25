@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://komarev.com/ghpvc/?username=restusatrio11&style=flat-square&color=blueviolet" alt="Profile views">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Halo!+Saya+Restu+Satrio+%F0%9F%A4%96;Web+Developer+Knight+%E2%9C%A8;Welcome+to+my+Profile!+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Halo!+Saya+Restu+Satrio+%F0%9F%A4%96;Web+Developer+Knight+%E2%9C%A8;Welcome+to+my+Profile!+%F0%9F%8C%B1" alt="Typing SVG" />
 </h1>
 
 <p align="center">
